@@ -1,4 +1,10 @@
-# Projekt-2 (*PROGAMERS*)
+# Projekt-2 (*TROPICAL PARADISE*)
+
+
+## Table of contents:
+- [Technologies](#Technologies)
+- [Live version](#Live-version)
+
 ## TECHNOLOGIES
 
 * HTML
