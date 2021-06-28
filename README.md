@@ -4,6 +4,7 @@
 * HTML
 * SCSS
 * JS
+* BOOTSTRAP
 
 ## LIVE VERSION
 
