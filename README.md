@@ -4,8 +4,7 @@
 * HTML
 * SCSS
 * JS
-* BOOTSTRAP
 
 ## LIVE VERSION
 
-[Show this project on Netlify](https://loving-keller-0a8d53.netlify.app)
+[Show this project on Netlify](https://amazing-neumann-751b5f.netlify.app)
